@@ -7,4 +7,9 @@ This boto3 is promising, lot of fun coming soon
 'aws configure --profile matulillo'
 
 # Running without brackets 
-'pipenv run python shotty/shotty.py'
+'pipenv run python shotty/shotty.py <command> <project=PROJECT>
+
+*command* is list,start,stop
+*project* is optional
+
+
