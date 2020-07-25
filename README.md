@@ -6,5 +6,5 @@ This boto3 is promising, lot of fun coming soo
 # Configuring
 'aws configure --profile matulillo'
 
-# Running 
+# Running without brackets 
 'pipenv run python shotty/shotty.py'
